@@ -1,6 +1,5 @@
 # BasicWarp
 A basic Spigot warp plugin
-Coded in ~2 hours
 
 Permissions:
 - basicwarp.warp (Allow user to use the warp functionality)
@@ -17,3 +16,5 @@ Commands:
 
 
 Well what else do you expect? It's in the name.
+
+This was coded in ~2 hours so not the best plugin. 
