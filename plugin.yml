@@ -1,0 +1,7 @@
+name: BasicWarp
+main: net.dezilla.basicwarp.BasicWarp
+version: 0.0.1
+website: https://www.dezilla.net/
+dev-url: https://www.dezilla.net/
+description: A basic warp plugin
+authors: [DeZilla]
