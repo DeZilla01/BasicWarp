@@ -9,9 +9,14 @@ Permissions:
 
 Commands:
 /warp set <name> [player]
+  
 /warp delete <name> [player]
+  
 /warp go <name> [player]
+  
 /warp list [player]
+
 /go <name> [player] (alias /g)
+
 
 Well what else do you except? It's in the name.
